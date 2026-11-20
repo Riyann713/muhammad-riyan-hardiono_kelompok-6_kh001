@@ -1,0 +1,10 @@
+{
+    "appTitle": "Student Directory",
+    "detailTitle": "User Detail",
+    "email": "Email",
+    "city": "City",
+    "language": "Language",
+    "errorMessage": "Failed to retrive Data",
+    "retry": "Try Again",
+    "noData": "No user data avalabele"
+}
